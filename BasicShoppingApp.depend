@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1771821173 source:c:\users\dcopp\documents\basicshoppingapp\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<iomanip>
+
