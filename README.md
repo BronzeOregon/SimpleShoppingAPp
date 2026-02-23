@@ -2,6 +2,8 @@
 
 # C++ Console Shopping System – README
 
+## Video Link: https://youtu.be/7wszreh7kcw
+
 ## Overview
 
 This C++ Console Shopping System is a simple command-line application that simulates a basic online shopping experience. The program allows users to view available products, add items to a shopping cart, review their cart contents, and complete a checkout process. It demonstrates object-oriented programming (OOP) principles such as encapsulation, class design, and separation of responsibilities.
